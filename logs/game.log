@@ -1,0 +1,56 @@
+2026-11-07 09:28:09 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:28:52 | INFO     | puzzle.game.leaderboard | Saved score: 3x3 39.72s 56 moves
+2026-11-07 09:29:00 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:29:04 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:29:52 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:30:00 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:31:05 | INFO     | puzzle.game.leaderboard | Saved score: 3x3 63.40s 81 moves
+2026-11-07 09:31:15 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:31:46 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:32:58 | INFO     | puzzle.__main__ | New 4x4 game
+2026-11-07 09:33:00 | INFO     | puzzle.__main__ | New 5x5 game
+2026-11-07 09:33:54 | INFO     | puzzle.__main__ | New 5x5 game
+2026-11-07 09:36:09 | INFO     | puzzle.game.leaderboard | Saved score: 5x5 127.56s 146 moves
+2026-11-07 09:36:23 | INFO     | puzzle.__main__ | New 5x5 game
+2026-11-07 09:36:24 | INFO     | puzzle.ai.comparator | BFS skipped: BFS does not support 5x5 boards (memory). Use A*.
+2026-11-07 09:36:34 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:38:25 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:38:28 | INFO     | puzzle.__main__ | New 4x4 game
+2026-11-07 09:39:13 | INFO     | puzzle.__main__ | New 4x4 game
+2026-11-07 09:45:44 | INFO     | puzzle.game.leaderboard | Saved score: 4x4 388.77s 510 moves
+2026-11-07 09:45:49 | INFO     | puzzle.__main__ | New 5x5 game
+2026-11-07 09:47:50 | INFO     | puzzle.ai.astar | A* (Linear Conflict) stopped after 147456 nodes (cap or cancel)
+2026-11-07 09:48:11 | INFO     | puzzle.ai.astar | A* (Manhattan) stopped after 400000 nodes (cap or cancel)
+2026-11-07 09:52:24 | INFO     | puzzle.game.leaderboard | Saved score: 5x5 367.65s 314 moves
+2026-11-07 09:52:30 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:52:31 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:52:32 | INFO     | puzzle.__main__ | New 5x5 game
+2026-11-07 09:52:36 | INFO     | puzzle.__main__ | New 4x4 game
+2026-11-07 09:52:37 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:53:58 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:55:43 | INFO     | puzzle.game.leaderboard | Saved score: 3x3 103.68s 120 moves
+2026-11-07 09:55:45 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 09:56:54 | INFO     | puzzle.game.leaderboard | Saved score: 3x3 67.00s 109 moves
+2026-11-07 09:56:57 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-07 10:02:29 | INFO     | puzzle.__main__ | Game closed
+2026-11-18 18:07:41 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-18 18:08:44 | INFO     | puzzle.game.leaderboard | Saved score: 3x3 60.65s 107 moves
+2026-11-18 18:08:48 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-18 18:09:43 | INFO     | puzzle.__main__ | Game closed
+2026-11-18 18:40:38 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-18 18:42:29 | INFO     | puzzle.game.leaderboard | Saved score: 3x3 106.70s 167 moves
+2026-11-18 18:42:35 | INFO     | puzzle.__main__ | Game closed
+2026-11-18 18:43:42 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-18 18:43:45 | INFO     | puzzle.__main__ | New 4x4 game
+2026-11-18 18:43:45 | INFO     | puzzle.__main__ | New 5x5 game
+2026-11-18 18:44:19 | INFO     | puzzle.__main__ | New 5x5 game
+2026-11-18 18:44:31 | INFO     | puzzle.__main__ | Game closed
+2026-11-18 20:03:26 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-18 20:03:30 | INFO     | puzzle.__main__ | New 4x4 game
+2026-11-18 20:03:31 | INFO     | puzzle.__main__ | New 5x5 game
+2026-11-18 20:03:32 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-18 20:04:02 | INFO     | puzzle.game.leaderboard | Saved score: 3x3 28.32s 43 moves
+2026-11-18 20:04:06 | INFO     | puzzle.__main__ | New 3x3 game
+2026-11-18 20:04:08 | INFO     | puzzle.__main__ | New 4x4 game
+2026-11-18 20:04:11 | INFO     | puzzle.__main__ | New 5x5 game
+2026-11-18 20:06:17 | INFO     | puzzle.game.leaderboard | Saved score: 5x5 121.13s 90 moves
